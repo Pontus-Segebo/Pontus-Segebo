@@ -11,8 +11,6 @@ Welcome to my GitHub profile! I'm a passionate Web developer from Sweden who lov
 - 💬 Ask me about: Anything
 - ⚡ Fun fact: i like coding
 
----
-
 <h3>When I code, I rely on</h3>
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -31,8 +29,6 @@ Welcome to my GitHub profile! I'm a passionate Web developer from Sweden who lov
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 </p>
-
----
 
 ## 📫 Let's Connect
 
