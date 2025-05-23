@@ -1,24 +1,13 @@
-# 👋 Hi there, I'm [Your Name]
+# 👋 Hi there, I'm Pontus Segebo
 
-Welcome to my GitHub profile! I'm a passionate **[your role/title, e.g., Web Developer]** from **[your country or city]** who loves building things for the web.
-
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+Welcome to my GitHub profile! I'm a passionate Web developer from Sweden who loves building things for the web.
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on: [Project or Learning Goal]
-- 🌱 I’m currently learning: [Technology or Tool]
-- 💬 Ask me about: [Topics you’re comfortable with]
-- ⚡ Fun fact: [Something quirky or interesting about you]
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" height="150"/>
-</p>
+- 🔭 I’m currently working on: Private projects
+- 🌱 I’m currently learning: React, svelte
+- 💬 Ask me about: Anything
+- ⚡ Fun fact: i like coding
 
 ---
 
@@ -51,18 +40,6 @@ Welcome to my GitHub profile! I'm a passionate **[your role/title, e.g., Web Dev
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
-
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Post 1](#)
-- [Post 2](#)
-- [Post 3](#)
-<!-- BLOG-POST-LIST:END -->
-
-*(Update these manually or with GitHub Actions)*
 
 ---
 
