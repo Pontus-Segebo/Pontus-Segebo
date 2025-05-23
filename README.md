@@ -1,5 +1,4 @@
 <img alt="git-banner" src="git_banner.png" />
-# 👋 Hi there, I'm Pontus Segebo
 
 #### 🚀 About Me
 
@@ -32,7 +31,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourname)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
-
----
-
-_Thanks for visiting my profile! ⭐_
