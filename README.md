@@ -1,4 +1,4 @@
-<img alt="git-banner" src="git_banner.png" />
+<img alt="git-banner" src="git_banner.png" height="250px" />
 
 #### 🚀 About Me
 
